@@ -6,7 +6,7 @@ This example tests the performance of our Graphics engine by drawing large
 numbers of small squares. You should see a black canvas with buttons and a
 label at the bottom. Pressing the buttons adds small colored squares to the
 canvas.
-123123
+123123123
 """
 
 from kivy.uix.button import Button
